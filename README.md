@@ -2,8 +2,7 @@ AI导航站
 ===
 ### Demo: [➡️ www.jobleap4u.com](https://www.jobleap4u.com/)
 
-<img width="3268" height="926" alt="image" src="https://github.com/user-attachments/assets/595d21e3-5313-4d0e-b4db-147aea7e0a64" />
-
+<img width="3328" height="960" alt="image" src="https://github.com/user-attachments/assets/15a95ba8-b76c-4fc7-88de-180e0f584136" />
 
 优秀项目示例
 ---
