@@ -1,6 +1,6 @@
 AI导航站
 ===
-### Demo: [➡️ jobleap4u](https://www.jobleap4u.com/)
+### Demo: [➡️ www.jobleap4u.com](https://www.jobleap4u.com/)
 
 <img width="3268" height="926" alt="image" src="https://github.com/user-attachments/assets/595d21e3-5313-4d0e-b4db-147aea7e0a64" />
 
