@@ -12,6 +12,9 @@ easy-seo-site 是一个专注于 **人工智能（AI）领域导航** 的开源�
 
 本项目适合希望了解、学习和应用AI相关技术的所有人，同时为相关项目开发者提供展示和推广的平台。
 
+## 友情链接（NextJs版）
+ - https://github.com/XiaomingX/ai-navigation-minisite
+
 ## 主要特点
 
 - 汇聚最新、最优质的 AI 导航项目和资源
