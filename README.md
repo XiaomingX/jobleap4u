@@ -1,4 +1,4 @@
-# jobpeap4u-easy-seo-site — AI导航站与人工智能项目资源集合
+# jobpeap4u-easy-seo-site — AI导航站与人工智能项目资源
 
 ### 在线演示：[➡️ www.jobleap4u.com](https://www.jobleap4u.com/)
 
